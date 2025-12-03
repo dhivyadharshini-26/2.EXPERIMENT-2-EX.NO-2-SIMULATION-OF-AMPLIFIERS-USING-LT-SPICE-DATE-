@@ -21,43 +21,63 @@ DATE:
 ---
 
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
-![WhatsApp Image 2025-11-28 at 10 54 30_4ce40352](https://github.com/user-attachments/assets/aae2201c-3e98-4d64-aa0d-fdc7ec86a896)
 
+![WhatsApp Image 2025-12-03 at 08 01 12_05df543a](https://github.com/user-attachments/assets/604ecd4a-ed17-4178-a47a-e11e02547cd9)
 
+![WhatsApp Image 2025-12-03 at 08 23 18_19b83935](https://github.com/user-attachments/assets/f5fcff4b-00dd-473d-8369-037fc7d0764f)
+
+---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
+<img width="1897" height="452" alt="ss inverting op" src="https://github.com/user-attachments/assets/06f151e6-4556-410f-8651-fa7280c1be17" />
 
 ---
 
 2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
-![WhatsApp Image 2025-11-28 at 10 54 30_418690e6](https://github.com/user-attachments/assets/ec9254b3-9f3c-4aa6-be59-41991b6cbf87)
+
+![WhatsApp Image 2025-12-03 at 08 01 13_d860f745](https://github.com/user-attachments/assets/27c53062-03b1-4e52-8a82-b2b5b2a94b0f)
+
+![WhatsApp Image 2025-12-03 at 08 07 20_0a630a9d](https://github.com/user-attachments/assets/43e4ab2a-185c-4a1e-8b78-f0812ffc86c7)
+
+---
 
 
+---
 ## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1908" height="458" alt="ss non in op" src="https://github.com/user-attachments/assets/4c13fb71-1847-4a05-b655-2baccd0e85f5" />
 
-
-![WhatsApp Image 2025-11-23 at 14 08 39_fe68faf5](https://github.com/user-attachments/assets/5435bfbb-b3a4-4f5f-8996-d6c398dcfa20)
-
+---
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
-![WhatsApp Image 2025-11-28 at 10 54 31_7f4cf07e](https://github.com/user-attachments/assets/2d145f55-b320-474c-b6f7-e7d52c33732f)
+
+![WhatsApp Image 2025-12-03 at 08 01 13_31933894](https://github.com/user-attachments/assets/465c5be5-f8a3-461b-8f69-c69a9df08e70)
+
+![WhatsApp Image 2025-12-03 at 08 08 11_31832a84](https://github.com/user-attachments/assets/a5459294-cf99-4f85-a134-27cfa1ee780b)
+
+
+---
+
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
+<img width="1908" height="452" alt="ss differntial op" src="https://github.com/user-attachments/assets/4969e1f7-dbac-4278-8844-cc7537011692" />
 
-![WhatsApp Image 2025-11-23 at 14 09 52_b25aa5d9](https://github.com/user-attachments/assets/46e4e898-9c3b-4efd-9014-603aacc39b80)
-
-
+---
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
-![WhatsApp Image 2025-11-28 at 10 54 31_57749870](https://github.com/user-attachments/assets/e34c7474-a074-41c5-a625-8e07598a65e2)
+
+![WhatsApp Image 2025-12-03 at 08 01 14_4e66b19d](https://github.com/user-attachments/assets/a7f564de-bd9e-48da-94a5-54d4b64431e0)
+
+![WhatsApp Image 2025-12-03 at 08 05 11_b1ce6844](https://github.com/user-attachments/assets/343de7e0-f3fa-4a55-9a87-5b5f271a2f2a)
+
+---
+
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="1902" height="463" alt="ss inst op" src="https://github.com/user-attachments/assets/95b07e67-3ad0-4e21-b6d8-e01ce9c64b16" />
 
-![WhatsApp Image 2025-11-23 at 14 11 17_35171a58](https://github.com/user-attachments/assets/7b2a50dd-dcca-4e83-bac4-622e5ec7d7b8)
-
+---
 
 ## RESULT
 Thus, the Inverting,Non-Inverting, Differential, and Instrumentation Amplifiers were designed and their performance successfully tested using LT-SPICE.
