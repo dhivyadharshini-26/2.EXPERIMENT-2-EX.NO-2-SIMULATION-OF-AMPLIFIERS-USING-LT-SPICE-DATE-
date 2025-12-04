@@ -67,7 +67,8 @@ DATE:
 
 ![WhatsApp Image 2025-12-03 at 08 01 14_4e66b19d](https://github.com/user-attachments/assets/a7f564de-bd9e-48da-94a5-54d4b64431e0)
 
-![WhatsApp Image 2025-12-03 at 08 05 11_b1ce6844](https://github.com/user-attachments/assets/343de7e0-f3fa-4a55-9a87-5b5f271a2f2a)
+![WhatsApp Image 2025-12-04 at 15 44 00_3e5933f7](https://github.com/user-attachments/assets/01c75ce1-e7d8-448f-a7ff-0c2664c9b69b)
+
 
 ---
 
